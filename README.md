@@ -28,8 +28,8 @@
 -   🥉 蓝桥杯全国总决赛三等奖  
     &emsp;&nbsp; And the third prize in the Blue Bridge (Lan Qiao) Cup National Finals
 
--   🤳 手机摄影玩家  
-    &emsp;&nbsp; I am a mobile photography player
-
 -   🚁 中国民航无人机多旋翼 - III - 超视距执照，机长等级  
     &emsp;&nbsp; I hold a Civil Aviation Administration of China Multi-Rotor UAV Class III BVLOS License with Captain Qualification.
+
+-   🏳️‍⚧️ “我们会在没有黑暗的地方相见。”  
+    &emsp;&nbsp; "We shall meet again in a place where there is no darkness."
