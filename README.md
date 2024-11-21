@@ -33,3 +33,5 @@
 
 -   🏳️‍⚧️「我們會在沒有黑暗的地方相見。」  
     &emsp;&nbsp; "We shall meet again in a place where there is no darkness."
+
+<p align="right">©2024 Vincy SHI</p>
