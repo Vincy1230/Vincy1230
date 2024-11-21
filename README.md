@@ -32,4 +32,4 @@
     &emsp;&nbsp; I am a mobile photography player
 
 -   🚁 中国民航无人机多旋翼 - III - 超视距执照，机长等级  
-    &emsp;&nbsp; I have a Chinese civil aviation drone multi-rotor - III - beyond visual line of sight license, captain level
+    &emsp;&nbsp; I hold a Civil Aviation Administration of China Multi-Rotor UAV Class III BVLOS License with Captain Qualification.
