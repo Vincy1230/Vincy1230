@@ -11,22 +11,22 @@
 ### About Me
 
 -   🎓 北京工商大學人工智慧本科在讀  
-    &emsp;&nbsp; I am currently pursuing a Bachelor's degree in Artificial Intelligence at Beijing Technology and Business University
+    &emsp;&nbsp; I am currently pursuing a Bachelor's degree in Artificial Intelligence at Beijing Technology and Business University.
 
 -   💬 擅長 Python 應用程式開發  
-    &emsp;&nbsp; I am skilled in Python programming
+    &emsp;&nbsp; I am skilled in Python programming.
 
 -   🌐 業餘前端玩家，常用 Vue  
-    &emsp;&nbsp; I am also an amateur front-end developer, my commonly used framework is Vue
+    &emsp;&nbsp; I am also an amateur front-end developer, my commonly used framework is Vue,
 
 -   🌱 我還會 C、C++ (Qt) 和 Verilog  
-    &emsp;&nbsp; Also, I have some knowledge of C, C++(Qt), and Verilog
+    &emsp;&nbsp; Also, I have some knowledge of C, C++(Qt), and Verilog.
 
 -   🥇 北京市大學生集成電路設計競賽一等獎  
-    &emsp;&nbsp; I have won the first prize in the Beijing University Integrated Circuit Design Competition
+    &emsp;&nbsp; I have won the first prize in the Beijing University Integrated Circuit Design Competition,
 
 -   🥉 藍橋杯全國總決賽三等獎  
-    &emsp;&nbsp; And the third prize in the Blue Bridge (Lan Qiao) Cup National Finals
+    &emsp;&nbsp; And the third prize in the Blue Bridge (Lan Qiao) Cup National Finals.
 
 -   🚁 中國民航無人機多旋翼 - III - 超視距執照，機長等級  
     &emsp;&nbsp; I hold a Civil Aviation Administration of China Multi-Rotor UAV Class III BVLOS License with Captain Qualification.
