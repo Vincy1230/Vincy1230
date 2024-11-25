@@ -10,7 +10,7 @@
 
 ### About Me
 
--   🎓 北京工商大學人工智慧本科在讀  
+-   🎓 北京工商大學人工智慧專業本科在讀  
     &emsp;&nbsp; I am currently pursuing a Bachelor's degree in Artificial Intelligence at Beijing Technology and Business University.
 
 -   💬 擅長 Python 應用程式開發  
