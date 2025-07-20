@@ -6,7 +6,7 @@
 
 > The achievements of the pioneers cannot satiate our curiosity; let us together turn our gaze and yearning for exploration toward the deeper mysteries of the cosmos.
 >
-> <sup>— Excerpt from the [2021 Admissions Video of Beijing Technology and Business University](https://www.bilibili.com/video/BV1io4y1y7DG/)</sup>
+> <sup>— Selected translation from the [2021 Admissions Video of Beijing Technology and Business University](https://www.bilibili.com/video/BV1io4y1y7DG/)</sup>
 
 ### About Me
 
