@@ -10,28 +10,28 @@
 
 ### About Me
 
--   🎓 北京工商大學人工智慧專業本科在讀  
-    &emsp;&nbsp; I am currently pursuing a Bachelor's degree in Artificial Intelligence at Beijing Technology and Business University.
+- 🎓 北京工商大學人工智慧專業本科畢業  
+  &emsp;&nbsp; I graduated with a Bachelor's degree in Artificial Intelligence from Beijing Technology and Business University.
 
--   💬 擅長 Python 應用程式開發  
-    &emsp;&nbsp; I am skilled in Python programming.
+- 💬 擅長 Python 應用程式開發，現任算法工程師  
+  &emsp;&nbsp; I am skilled in Python programming and currently work as an algorithm engineer.
 
--   🌐 業餘前端玩家，常用 Vue  
-    &emsp;&nbsp; I am also an amateur front-end developer, my commonly used framework is Vue,
+- 🌐 業餘前端玩家，常用 Vue  
+  &emsp;&nbsp; I am also an amateur front-end developer, my commonly used framework is Vue,
 
--   🌱 我還會 C、C++ (Qt) 和 Verilog  
-    &emsp;&nbsp; Also, I have some knowledge of C, C++(Qt), and Verilog.
+- 🌱 我還會 C、C++ (Qt) 和 Verilog  
+  &emsp;&nbsp; Also, I have some knowledge of C, C++(Qt), and Verilog.
 
--   🥇 北京市大學生集成電路設計競賽一等獎  
-    &emsp;&nbsp; I have won the first prize in the Beijing University Integrated Circuit Design Competition,
+- 🥇 北京市大學生集成電路設計競賽一等獎  
+  &emsp;&nbsp; I have won the first prize in the Beijing University Integrated Circuit Design Competition,
 
--   🥉 藍橋杯全國總決賽三等獎  
-    &emsp;&nbsp; And the third prize in the Blue Bridge (Lan Qiao) Cup National Finals.
+- 🥉 藍橋杯全國總決賽二等獎  
+  &emsp;&nbsp; And the second prize in the Blue Bridge (Lan Qiao) Cup National Finals.
 
--   🚁 中國民航無人機多旋翼 - III - 超視距執照，機長等級  
-    &emsp;&nbsp; I hold a Civil Aviation Administration of China Multi-Rotor UAV Class III BVLOS License with Captain Qualification.
+- 🚁 中國民航無人機多旋翼 - III - 超視距執照，機長等級  
+  &emsp;&nbsp; I hold a Civil Aviation Administration of China Multi-Rotor UAV Class III BVLOS License with Captain Qualification.
 
--   🏳️‍⚧️「我們會在沒有黑暗的地方相見。」  
-    &emsp;&nbsp; "We shall meet again in a place where there is no darkness."
+- 🏳️‍⚧️「我們會在沒有黑暗的地方相見。」  
+  &emsp;&nbsp; "We shall meet again in a place where there is no darkness."
 
 <p align="right">©2024-2025 Vincy SHI</p>
